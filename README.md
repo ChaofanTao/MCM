@@ -12,4 +12,4 @@ In the competition of the Mathematical Contest in Modeling (MCM), each team is s
 * Problem E (environmental science)
 * Problem F (policy)
 
-All the team members cooperate with each other to propose a mathematical model to solve the problem, and then write code to implement the model. A paper is needed for describing the whole projects.
+All the team members cooperate with each other to propose a mathematical model to solve the problem, and then write code to implement the model. A paper is needed for describing the whole project.
