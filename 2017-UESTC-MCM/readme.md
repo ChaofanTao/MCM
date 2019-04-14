@@ -1,7 +1,5 @@
 # Problem A: Drone Clusters as Sky Light Displays
 Intel developed its Shooting Star drone and is using clusters of these drones for aerial light shows. In 2016, a cluster of 500 drones, controlled by a single laptop and one pilot, performed a beautifully choreographed light show <https://www.youtube.com/watch?v=jNIAzeU8POQ>.  
-[![video](https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/dragon_fea.png)](https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/drones'%20light%20show.mp4)
-
 
 Your university has an annual festival and is considering adding an outdoor aerial light show. The president has asked your team to investigate the idea of using drones to create three possible sky displays.  
 __Part I__ – For each display:
