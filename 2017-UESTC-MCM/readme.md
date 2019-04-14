@@ -1,7 +1,7 @@
 # Problem A: Drone Clusters as Sky Light Displays
-Intel developed its Shooting Star drone and is using clusters of these drones for aerial light shows. In 2016, a cluster of 500 drones, controlled by a single laptop and one pilot, performed a beautifully choreographed light show <https://www.youtube.com/watch?v=jNIAzeU8POQ>.
-<iframe height=498 width=510 src="https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/drones'%20light%20show.mp4
-">
+Intel developed its Shooting Star drone and is using clusters of these drones for aerial light shows. In 2016, a cluster of 500 drones, controlled by a single laptop and one pilot, performed a beautifully choreographed light show <https://www.youtube.com/watch?v=jNIAzeU8POQ>.  
+[![video](https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/dragon_fea.png)](https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/drones'%20light%20show.mp4)
+
 
 Your university has an annual festival and is considering adding an outdoor aerial light show. The president has asked your team to investigate the idea of using drones to create three possible sky displays.  
 __Part I__ – For each display:
@@ -16,8 +16,8 @@ __Part III__ – Write a two-page memo to the president of your university to re
 __Your submission__ should consist of:
 * One-page signature Sheet
 * One-page Summary Sheet
-* Two-page memo to the Mayor
-
+* Two-page memo to the Mayor  
+***  
 # Summary of Our Solution
 With hundreds of intel drones light up the sky, people are increasingly attracted by the drone clusters. Given an image, drone clusters can display it vividly in the sky. Our goal is to determine the positions of the drones and devise an optimized flight path for them.  
 
@@ -37,6 +37,10 @@ The image that set of drones should animate on the sky:
 Feature extraction via various image detectors (take the image of dragon as example):  
 <img src="https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/dragon_fea.png" width = "800" height = "400" alt="feature" />  
 
-The simulated flight path of drones' group and transformation via our method:  
-<iframe height=500 width=500 src="https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/change1.gif">
+The simulated flight path of drones' group and transformation via our method (2d and 3d version), every blue point denots a drone:  
+<img src="https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/change1.gif" width = "300" height = "300" alt="g1" />
+<img src="https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/change2.gif" width = "300" height = "300" alt="g1" />  
+<img src="https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/dragon_2d.gif" width = "300" height = "300" alt="g1" />
+<img src="https://github.com/ChaofanTao/MCM/blob/master/2017-UESTC-MCM/files/dragon_3d.gif" width = "300" height = "300" alt="g1" />   
+
 
