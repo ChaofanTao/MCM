@@ -73,8 +73,8 @@ Impact of climate change by projection:
 <img src="https://github.com/ChaofanTao/MCM/blob/master/2018-COMAP/files/vector.png" width = "800" height = "200" alt="vec" />  
 
 Fragility of South Sudan under original climate and friendly climate:  
-<img src="https://github.com/ChaofanTao/MCM/blob/master/2018-COMAP/files/before.png" width = "270" height = "270" alt="before" />
-<img src="https://github.com/ChaofanTao/MCM/blob/master/2018-COMAP/files/after.png" width = "270" height = "270" alt="aft" />  
+<img src="https://github.com/ChaofanTao/MCM/blob/master/2018-COMAP/files/before.png" width = "270" height = "220" alt="before" />
+<img src="https://github.com/ChaofanTao/MCM/blob/master/2018-COMAP/files/after.png" width = "270" height = "220" alt="aft" />  
 
 Prediction method and Evaluation on the specific area (Egypt):  
 <img src="https://github.com/ChaofanTao/MCM/blob/master/2018-COMAP/files/predict.png" width = "600" height = "300" alt="pre" />  
